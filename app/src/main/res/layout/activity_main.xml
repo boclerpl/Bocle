@@ -9,8 +9,8 @@
     <TextView
         android:layout_width="223dp"
         android:layout_height="154dp"
-        android:text="Hello Bocle!"
-        android:textSize="40dp"
+        android:text="@string/hello_bocle"
+        android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.503"
