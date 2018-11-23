@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Bocle</string>
     <string name="hello_bocle">Hello Bocle!</string>
+    <string name="signUP">Sign UP</string>
+    <string name="signIn">Log In</string>
+    <string name="bocle"></string>
+    <string name="rpl">RPL</string>
+
 </resources>
