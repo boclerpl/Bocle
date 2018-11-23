@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Bocle</string>
     <string name="hello_bocle">Hello Bocle!</string>
+    <string name="project_rpl">Project RPL</string>
 </resources>
